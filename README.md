@@ -33,6 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 ### Tools
 
+* [Arbitrage Inception](https://arbitrage-inc.exchange): Non-custodial DEX aggregator with multi-pool routing, on-chain limit orders, and cross-chain bridging on BNB Smart Chain.
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify)
 * [yieldwatch](https://yieldwatch.net/) Track your Yield Farming and Liquidity Pool performance on BNB Smart Chain.
 * [BSC Ecosystem](https://github.com/bnb-chain/bsc-ecosystem)
