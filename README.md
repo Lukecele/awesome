@@ -33,7 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 ### Tools
 
-* [Arbitrage Inception](https://arbitrage-inc.exchange): Open-source, non-custodial DEX aggregator with routed swaps, on-chain limit orders, Mayan Finance cross-chain bridging, and deterministic real-yield fee distribution. ([source code](https://github.com/arbincept/Arb-Inc-All-in-Dex))
+* [Arbitrage Inception](https://arbitrage-inc.exchange): Open-source, non-custodial BNB Chain interface for wallet-signed swaps, limit orders, and cross-chain routes via Mayan Finance. ([source code](https://github.com/arbincept/Arb-Inc-All-in-Dex))
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify)
 * [yieldwatch](https://yieldwatch.net/) Track your Yield Farming and Liquidity Pool performance on BNB Smart Chain.
 * [BSC Ecosystem](https://github.com/bnb-chain/bsc-ecosystem)
